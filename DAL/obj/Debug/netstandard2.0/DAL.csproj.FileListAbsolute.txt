@@ -3,3 +3,6 @@ C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\bin\Debug\netstandard2.0
 C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
 C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
 C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Valmir\Desktop\Sindikata.Pro\Sindikata.pro\DAL\obj\Debug\netstandard2.0\DAL.pdb
